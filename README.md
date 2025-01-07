@@ -122,4 +122,4 @@ The comparison between Vision Transformer (ViT) and ResNet50 reveals key differe
 ViT emerged as the superior model in terms of accuracy and robustness across both datasets. While ResNet50's architectural simplicity made it computationally efficient, its performance was comparatively lower, particularly on SAM-processed data. The results highlight the trade-offs between computational efficiency and accuracy, suggesting that ViT is better suited for applications where high accuracy is prioritized, whereas ResNet50 may be preferable for real-time use cases.
 
 
-## For full conducting process refer Report file
+## For full conducting process, see the Report.pdf
